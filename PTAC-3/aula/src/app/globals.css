@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 200vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: #FFFFFF;
+  border-style: dotted;
+}
+
+a {
+  text-decoration: none;
+  color: #FFFFFF;
+  border-style: dotted;
+  border-color: #FFFFFF;
+}
+
+button{
+  text-decoration: none;
+  color:#FFFFFF;
+  background-color: #e8abca;;
+  border-style: dotted;
+  border-color: #FFFFFF;
+}
